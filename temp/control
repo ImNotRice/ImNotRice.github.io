@@ -1,0 +1,10 @@
+Package: com.xcxiao.simplels2
+Name: SimpleLS2
+Version: 1.3.1-6
+Section: Tweaks
+Architecture: iphoneos-arm
+Depends: mobilesubstrate
+Installed-Size: 2524
+Author: XCXiao
+Maintainer: XCXiao
+Description: SimpleLS
