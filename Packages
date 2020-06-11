@@ -17,3 +17,22 @@ SHA1: 0eaf3591390de8e7b6408cf152a5657631f9631f
 SHA256: c2d9851832cd7ed3a8a62e5364eb8fd43e7613009e2a016bf272beae2b9ba221
 SHA521: be88d5fdd1c94b88aa04f8462c7d29d3d457f23b57417eaf22622402480b6327ef9d99d1695c1f1885a24f4945a83340c1eda9577cccced3cff10ef9a239b70e
 
+Package: com.gilshahar7.pearlretry
+Section: Tweaks
+Installed-Size: 340
+Maintainer: gilshahar7
+Architecture: iphoneos-arm
+Version: 1.1
+Depends: mobilesubstrate
+Description: Retry FaceID when failed to recognize.
+Name: PearlRetry
+Author: gilshahar7
+Filename: debs/com.gilshahar7.pearlretry_1.1_iphoneos-arm.deb
+Depiction: https://imnotrice.github.io/depictions/com.gilshahar7.pearlretry.html
+Icon: https://imnotrice.github.io/icons/com.gilshahar7.pearlretry.png
+Size: 29900
+MD5sum: bc8c21878c8f17bd04b04d0d83afa51f
+SHA1: 33039b44fc1ac3f92b9c5dc1b88fd40a2f69afa9
+SHA256: 50ac343983f1d44965a9672092460e8b67a9e132140bfd945fd37eba0ec02561
+SHA521: 5b0a55190a8bd2b8ade369560892b26ed06de8c120729a6118fa8deea61c0c375a02113629b029f44d28330d1e3243099d4fc6af7550ab41f184e06123def2d2
+
